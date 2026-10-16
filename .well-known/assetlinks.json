@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mymap.app",
+        "sha256_cert_fingerprints": ["56:0F:02:36:07:DD:FC:04:51:A0:32:26:19:76:C1:49:86:3A:C2:62:70:8D:C6:33:C3:1C:1D:F3:13:43:BA:1A"]
+      }
+    }]
